@@ -1,0 +1,1 @@
+str1 = "Welcome to USA! usa is awesome right?"

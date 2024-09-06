@@ -1,0 +1,8 @@
+inp_year = int(input('Enter any year: '))
+
+leap_counter = 0
+normal_counter = 0
+for yr in range (inp_year, 2024):
+    if yr % 4 == 0:
+        leap_counter+=1
+    print(yr)
